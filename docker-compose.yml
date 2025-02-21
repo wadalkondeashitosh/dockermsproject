@@ -1,4 +1,4 @@
-version: '3.8'
+version: '27.5'
 services:
   movies:
     image: rahamshaik/9ammovies:latest
